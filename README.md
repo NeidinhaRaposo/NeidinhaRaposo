@@ -1,8 +1,8 @@
-# Olá 👋 Eu sou Neidinha Raposo
+# Olá 👋 Eu sou Neidiman Raposo
 
 💻 Desenvolvedora em transição de carreira  
 🎓 Estudando Back-end com Python, Django e Banco de Dados  
-🚀 Apaixonada por tecnologia e desenvolvimento de sistemas
+🚀 Apaixonada por Tecnologia e Desenvolvimento de Sistemas
 
 ## 🚀 Tecnologias que utilizo
 
