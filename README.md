@@ -42,6 +42,10 @@ Sistema para gerenciamento de horários e reservas.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeidinhaRaposo&layout=compact&theme=tokyonight)
 
+---
+
+💡 Sempre em busca de novos desafios, aprendizado contínuo e desenvolvimento de soluções que façam a diferença.
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neidiman-raposo-b12ba9129/)
