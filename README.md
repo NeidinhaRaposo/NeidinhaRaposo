@@ -11,6 +11,20 @@ Tenho experiência em desenvolvimento de projetos, lógica de programação e ve
 
 Atualmente busco oportunidades para atuar como desenvolvedora, contribuindo com soluções práticas e aprendendo continuamente.
 
+## 💼 Projetos em destaque
+
+🚀 PegueiCupom
+Sistema para divulgação de cupons e ofertas locais.
+
+📚 Glossário de Linguagens
+Projeto educacional para consulta de conceitos de programação.
+
+🔐 Sistema de Login
+Sistema com autenticação utilizando HTML, CSS e JavaScript.
+
+📅 Agendamento de Horários
+Sistema para gerenciamento de horários e reservas.
+
 ## 🚀 Tecnologias que utilizo
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
