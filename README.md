@@ -1,8 +1,15 @@
 # Olá 👋 Eu sou Neidiman Raposo
 
-💻 Desenvolvedora em transição de carreira  
-🎓 Estudando Back-end com Python, Django e Banco de Dados  
-🚀 Apaixonada por Tecnologia e Desenvolvimento de Sistemas
+💻 Desenvolvedora Full Stack com foco em Back-end
+🐍 Python | Django | APIs REST | MySQL
+🚀 Apaixonada por desenvolvimento de software e resolução de problemas
+
+## 👩‍💻 Sobre mim
+
+Sou desenvolvedora Full Stack com foco em Back-end utilizando Python e Django.
+Tenho experiência em desenvolvimento de projetos, lógica de programação e versionamento com Git/GitHub, além de atuar na orientação técnica de alunos em projetos de tecnologia.
+
+Atualmente busco oportunidades para atuar como desenvolvedora, contribuindo com soluções práticas e aprendendo continuamente.
 
 ## 🚀 Tecnologias que utilizo
 
