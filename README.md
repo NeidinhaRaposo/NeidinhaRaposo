@@ -42,9 +42,9 @@ Sistema para gerenciamento de horários e reservas.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeidinhaRaposo&layout=compact&theme=tokyonight)
 
----
+## 💡 Objetivo
 
-💡 Sempre em busca de novos desafios, aprendizado contínuo e desenvolvimento de soluções que façam a diferença.
+Sempre em busca de novos desafios, aprendizado contínuo e desenvolvimento de soluções que façam a diferença.
 
 ## 📫 Contato
 
