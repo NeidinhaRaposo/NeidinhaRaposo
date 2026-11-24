@@ -42,7 +42,7 @@ Acredito na tecnologia como ferramenta para solucionar problemas reais, otimizar
 - 🐍 Formação Back-end com Python e Django – IFB (em andamento)
 - 🌐 Programador Web
 - 🖥️ Montagem e Reparação de Computadores
-- 🇬🇧 Inglês – CILG
+- 🌐 Inglês – CILG
 - 📝 Curso de Extensão em Tradução e Revisão de Textos – 100 horas
 
 ---
