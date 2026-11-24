@@ -20,12 +20,8 @@ Acredito na tecnologia como ferramenta para solucionar problemas reais, otimizar
 
 ---
 
-## 🎓 Formação acadêmica
+<img width="1890" height="904" alt="image" src="https://github.com/user-attachments/assets/17b3b7fa-6ec8-4adb-a54a-cd68238c8a2c" />
 
-- 🎓 Análise e Desenvolvimento de Sistemas – IFB (em conclusão)
-- 🎓 Pós-graduação em Banco de Dados
-- 🎓 Pós-graduação em Desenvolvimento com Java e PHP
-- 🎓 Pós-graduação em Desenvolvimento .NET
 
 ---
 
