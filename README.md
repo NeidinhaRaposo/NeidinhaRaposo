@@ -20,8 +20,30 @@ Acredito na tecnologia como ferramenta para solucionar problemas reais, otimizar
 
 ---
 
-<img width="1890" height="904" alt="image" src="https://github.com/user-attachments/assets/17b3b7fa-6ec8-4adb-a54a-cd68238c8a2c" />
+## 🎓 Formação acadêmica
 
+### 📚 Pós-graduações
+
+- 🎓 Especialização em Banco de Dados
+- 🎓 Especialização em Desenvolvimento de Sistemas com Java e PHP
+- 🎓 Especialização em Desenvolvimento de Aplicações .NET
+
+### 🎓 Graduações
+
+- 💻 Tecnologia em Análise e Desenvolvimento de Sistemas – IFB (em conclusão)
+- 📖 Licenciatura em Letras – Português/Inglês (concluída)
+
+### 🛠️ Formação técnica
+
+- 💻 Técnico em Desenvolvimento de Sistemas – IFB (concluído em 2020 – 1.200 horas)
+
+### 📚 Formação complementar
+
+- 🐍 Formação Back-end com Python e Django – IFB (em andamento)
+- 🌐 Programador Web
+- 🖥️ Montagem e Reparação de Computadores
+- 🇬🇧 Inglês – CILG
+- 📝 Curso de Extensão em Tradução e Revisão de Textos – 100 horas
 
 ---
 
