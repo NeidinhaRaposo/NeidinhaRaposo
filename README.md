@@ -178,6 +178,7 @@ Busco evoluir continuamente como profissional de tecnologia, transformando conhe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neidiman-raposo-b12ba9129/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NeidinhaRaposo)
+[![Portfólio](https://img.shields.io/badge/Portfólio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://neidinharaposo.github.io/neidiman_raposo/)
 
 ---
 
